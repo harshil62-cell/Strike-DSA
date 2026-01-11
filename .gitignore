@@ -1,1 +1,3 @@
 .vscode
+# all exe files excluded
+*.exe
